@@ -1,6 +1,6 @@
 # django-multi-upload
 
-The video tutorial with explanation is on this link: http://www.youtube.com/watch?v=C9MDtQHwGYM
+
 
 The media folder contains three dummy files which I used for the tutorial.
 
